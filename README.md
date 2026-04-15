@@ -25,5 +25,5 @@ For a detailed explanation of the configuration, challenges, and testing results
 [Download Project Report (PDF)](docs/Project_Report.pdf)
 
 ---
-**Author:** [Your Name]
+**Author:** Huzaifa Habib
 **Course:** Routing and Switching
