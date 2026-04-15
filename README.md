@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 This project demonstrates the design and simulation of an Enterprise Wide Area Network (WAN) connecting a Head Office to four branch offices. The topology relies on **OSPF (Open Shortest Path First)** for dynamic routing and redundancy, with specific **Static Route** manipulation to control traffic engineering policies.
 
-**Tools Used:** Cisco Packet Tracer 8.2 (or your version)
+**Tools Used:** Cisco Packet Tracer 8.2
 
 ## 🎯 Key Features
 - **Partial Mesh Topology:** Designed for high availability.
@@ -13,7 +13,6 @@ This project demonstrates the design and simulation of an Enterprise Wide Area N
 
 ## 📸 Network Topology
 ![Network Topology](images/topology.png)
-*(Make sure the filename matches your uploaded image exactly)*
 
 ## 🚀 How to Run
 1. Download the file `Enterprise_WAN_Simulation.pkt` from this repository.
